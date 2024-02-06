@@ -51,4 +51,5 @@ function generateMarkdown(data) {
   `;
 }
 
+// Function to modularise the file
 module.exports = generateMarkdown;
