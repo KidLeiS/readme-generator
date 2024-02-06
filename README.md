@@ -25,7 +25,7 @@
   Your generated readme file will be in the output folder. Please note - running a new instance of readme generator will override the old readme file in output. To avoid deleting previous readme files, move those generated files out of the output folder before generating a new readme.
 
   Here is a video walkthrough of using the application:
-  ![Walkthough Video](readme-walkthrough.webm)
+  ![Walkthough Video](./assets/readme-walkthrough.webm)
 
   ## License
   This application is released under the GNU General Public License v3.0 license. Please refer to the license file for more information.
